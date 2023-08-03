@@ -7,12 +7,12 @@ I'm a Developer with Bachelors in Computer Science from Swinburne University spe
 [![Twitter Badge](https://img.shields.io/badge/-@messai__-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/messai__)](https://twitter.com/messai__) [![Linkedin Badge](https://img.shields.io/badge/-SaikiranSolanki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikiran-solanki-20a684158/) [![Insta Badge](https://img.shields.io/badge/-@heyimsai-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/heyimsai/) [![Mail Badge](https://img.shields.io/badge/-heytheresaik-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:heytheresaik@gmail.com)
 
 
-- 🔭 I’m currently working at CSL
+- 🔭 I’m currently working at Cario as a Developer
 - 💬 Ask me About: Python, Java, HTML, CSS, JS 
-- 🤔 I’m looking for help with finding new ideas and projects to work on.
+- 🤔 I’m love working on exciting projects and make crazy undoable projects, doable.
 - 📫 How to reach me: heytheresaik@gmail.com.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I play snooker and workout at home.
+- ⚡ Fun fact: I play snooker, not good at it, but still play.
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
