@@ -9,7 +9,7 @@ I'm a Developer with Bachelors in Computer Science from Swinburne University spe
 
 - 🔭 I’m currently working at Cario as a Developer
 - 💬 Ask me About: Python, Java, HTML, CSS, JS 
-- 🤔 I’m love working on exciting projects and make crazy undoable projects, doable.
+- 🤔 I love working on exciting projects and make crazy undoable projects, doable.
 - 📫 How to reach me: heytheresaik@gmail.com.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I play snooker, not good at it, but still play.
