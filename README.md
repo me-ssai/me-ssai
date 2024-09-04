@@ -12,7 +12,7 @@ I'm a Developer with Bachelors in Computer Science from Swinburne University spe
 - 🤔 I love working on exciting projects and make crazy undoable projects, doable.
 - 📫 How to reach me: heytheresaik@gmail.com.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I play snooker, not good at it, but still play.
+- ⚡ Fun fact: I like  🍻, 🎱, 🏋️‍♂️, 🏃‍♂️, 🎮, 🎳.
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
