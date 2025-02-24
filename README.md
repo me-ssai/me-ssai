@@ -4,13 +4,13 @@ I'm a Developer with Bachelors in Computer Science from Swinburne University spe
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@messai__-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/messai__)](https://twitter.com/messai__) [![Linkedin Badge](https://img.shields.io/badge/-SaikiranSolanki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikiran-solanki-20a684158/) [![Insta Badge](https://img.shields.io/badge/-@heyimsai-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/heyimsai/) [![Mail Badge](https://img.shields.io/badge/-heytheresaik-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:heytheresaik@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@messai__-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/messai__)](https://twitter.com/messai__) [![Linkedin Badge](https://img.shields.io/badge/-SaikiranSolanki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikiran-solanki-20a684158/) [![Insta Badge](https://img.shields.io/badge/-@heyimsai-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/heyimsai/) [![Mail Badge](https://img.shields.io/badge/-heytheresaik-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:saikiransolankid@gmail.com)
 
 
 - 🔭 
 - 💬 Ask me About: C# .NET, Python, Java, Angular, Web App Front and Backend Dev
 - 🤔 I love working on exciting projects and make crazy undoable projects, doable.
-- 📫 How to reach me: saikiransolankid@gmail.com
+- 📫 How to reach me: [![Mail Badge](https://img.shields.io/badge/-heytheresaik-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:saikiransolankid@gmail.com)
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I like  🍻, 🎱, 🏋️‍♂️, 🏃‍♂️, 🎮, 🎳.
 
