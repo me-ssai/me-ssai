@@ -10,7 +10,7 @@ I'm a Developer with Bachelors in Computer Science from Swinburne University spe
 - 🔭 
 - 💬 Ask me About: C# .NET, Python, Java, Angular, Web App Front and Backend Dev
 - 🤔 I love working on exciting projects and make crazy undoable projects, doable.
-- 📫 How to reach me: heytheresaik@gmail.com.
+- 📫 How to reach me: saikiransolankid@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I like  🍻, 🎱, 🏋️‍♂️, 🏃‍♂️, 🎮, 🎳.
 
